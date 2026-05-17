@@ -1,4 +1,4 @@
-# MIT Blanket — Flexible Magnetic Induction Tomography
+# MIT Blanket: A flexible Magnetic Induction Tomography
 
 A low-cost, flexible point-of-care imaging system 
 designed for resource-constrained settings including 
