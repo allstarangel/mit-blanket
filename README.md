@@ -1,4 +1,4 @@
-# MIT Blanket — Flexible Magnetic Induction Tomography
+# MIT Blanket: A flexible Magnetic Induction Tomography
 
 A low-cost, flexible point-of-care imaging system 
 designed for resource-constrained settings including 
@@ -34,20 +34,7 @@ Phase 1 — Software simulation (in progress)
 Phase 2 — Hardware integration  
 Phase 3 — Phantom validation  
 
-## Repository Structure
-
-mit-blanket/
-├── config/          # Array geometry, frequency parameters
-├── hardware/        # RPi GPIO, SDR interface
-├── sensing/         # Contact detection, measurement cycling
-├── reconstruction/  # Forward model, Jacobian, Gauss-Newton
-├── visualization/   # Conductivity map plotting
-├── results/         # Saved figures and outputs
-├── tests/           # Unit tests for each module
-├── notebooks/       # Jupyter exploration notebooks
-└── docs/            # Notes, derivations, references
-
 ## Author
 
-Jackymora Isa-Shei  
+Jacky
 Independent Research — May 2026
